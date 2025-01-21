@@ -11,7 +11,7 @@
     My hobbies: gym, music, movies, travels, cars and video games
   </li>
     <li>
-    Fun fact: My dog is cairn terrier and is cute. i love my dog<3
+    Fun fact: My dog is cairn terrier and is cute. i love my dog❤
   </li>
   
 </ul>
