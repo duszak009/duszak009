@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+<ul>
+  <li>
+    I'm currently student of Computer Engineering at Vistula University
+  </li>
+  <li>
+    I like code in Java and Python
+  </li>
+  <li>
+    My hobbies: gym, music, movies, travels, cars and video games
+  </li>
+  
+</ul>
 <!--
 **duszak009/duszak009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
